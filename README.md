@@ -1,4 +1,4 @@
-# [Microsoft Azure Administration Masterclass Syllabus](https://novatec.co.in/)
+# [Microsoft Azure Administration Masterclass Course](https://novatec.co.in/)
 
 This repository has syllabus and course material for Microsoft Azure Administration Administration course, offered by Novatec IT Service.
 During the course you will learn a technology stack that helps you build cloud based solution using various Azure web-services.
@@ -62,5 +62,13 @@ During the course you will learn a technology stack that helps you build cloud b
 - <b>Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts 
 
  ---<br><br>
-- Projects:
   
+## Projects
+
+Project-01: Automate Create 3-tier application infrastructure provisioning using ARM Templates and deploy it using PowerShell & Portal
+  
+Project-02: Create an end-to-end CI CD pipeline for Application deployment using Azure DevOps services
+  
+Project-03: Establish connectivity between two networks using Azure network connectivity services 
+  
+Project-04: Create a multi-region load balancing solution with Traffic Manager and Application Gateway
