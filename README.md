@@ -47,10 +47,38 @@ During the course you will learn a technology stack that helps you build cloud b
   - Azure App Service: Pricing
   - Real World Use-cases and Best Practices
  
-- <b>Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services
-  
+- <b>Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services</b>
+  - Networking Primer
+  - Overview of Azure Virtual Network
+  - Azure Virtual Network Endpoints
+  - Azure Network Security services
+    - Network Security Group
+    - Firewall
+  - IP Address : Public IP, Private IP
+  - Azure Load Balancing services
+    - Azure Load Balancer (Layer-4)
+    - Azure Application Gateway (Layer-7)
+    - Azure Traffic Manager (Layer-7)
+  - Azure Virtual Network connectivity use-cases and mechanisms
+    - VNet Peering
+    - Point-to-Site VPN
+    - Site-to-Site VPN 
+    - Express Route
+  - Understand NAT mechanism | Explore Azure NAT Gateway service | Use-cases
+  - Understand significance of Bastion resource in a solution | Explore Azure Bastion Service | Use-cases
+  - Explore Azure NetworkWatcher services and its features
+  - Azure Networking Services: Pricing
+
 - <b>Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues 
-  
+  - Understanding the need of Storage services in an Application | Use-cases
+  - Overview of Azure Storage Account
+  - Type of Azure Storage Account
+    - Standard General Purpose v2
+    - Premium
+    
+Storage Services Blob, Table, queue, File
+Storage Account Replication Techniques
+Azure Storage - Shared Access Signature (SAS) and Access Token
 - <b>Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC
   
 - <b>Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR)
@@ -63,12 +91,16 @@ During the course you will learn a technology stack that helps you build cloud b
 
  ---<br><br>
   
-## Projects
+## Project Ideas
 
-Project-01: Automate Create 3-tier application infrastructure provisioning using ARM Templates and deploy it using PowerShell & Portal
+[Project-01: Automate Create 3-tier application infrastructure provisioning using ARM Templates and deploy it using PowerShell & Portal]()
   
-Project-02: Create an end-to-end CI CD pipeline for Application deployment using Azure DevOps services
+[Project-02: Create an end-to-end CI CD pipeline for Application deployment using Azure DevOps services]()
   
-Project-03: Establish connectivity between two networks using Azure network connectivity services 
+[Project-03: Establish connectivity between two networks using Azure network connectivity services]()
   
-Project-04: Create a multi-region load balancing solution with Traffic Manager and Application Gateway
+[Project-04: Create a multi-region load balancing solution with Traffic Manager and Application Gateway](https://learn.microsoft.com/en-us/azure/architecture/high-availability/reference-architecture-traffic-manager-application-gateway)
+  
+[Project-05: Create a data pipeline that integrates large amounts of data from multiple sources into a unified analytics platform](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse)
+
+[Project-06: Create a real-time data ingestion/processing pipeline to ingest and process messages from IoT devices into a big data analytic platform](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/realtime-analytics-vehicle-iot)
