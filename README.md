@@ -5,23 +5,43 @@ During the course you will learn a technology stack that helps you build cloud b
 
 ## Course Syllabus
 
-- <b>Module-01: Introduction to Cloud & Cloud Computing</b>
-  - Cloud Overview
-  - Traditional IT Infrastructure VS Cloud
-  - Cloud Service Models
-  - Cloud Deployment Models
-  - Virtualization Primer
+<details>
+ <summary> <b> Module-01: Introduction to Cloud & Cloud Computing :computer: </b>  </summary>
   
-- <b>Module-02: Microsoft Azure Fundamentals</b>
-  -  Introduction to Microsoft Azure
-  -  Auzre Global Infrastructure
-  -  Setting up Azure Environment
-  -  Different ways of accessing Azure web-services: Powershell, Azure CLI, Portal, REST API
-  -  Different ways of buying Azure services
-  -  Explore Azure CloudShell
-  -  Azure Organization Hierarchy: Management Group, Subscription, Resource Group, Resource
-  -  Azure Subscription Governance Strategies
-  -  <b>Hands-on Labs</b>
+ * Cloud Overview
+ 
+ * Traditional IT Infrastructure VS Cloud
+ 
+ * Cloud Service Models
+  
+ * Cloud Deployment Models
+  
+ * Virtualization Primer 
+    
+</details>
+
+<details>
+ <summary> <b> Module-02: Microsoft Azure Fundamentals :book: </b>  </summary>
+  
+  *  Introduction to Microsoft Azure
+  
+  *  Auzre Global Infrastructure
+  
+  *  Setting up Azure Environment
+  
+  *  Different ways of accessing Azure web-services: Powershell, Azure CLI, Portal, REST API
+  
+  *  Different ways of buying Azure services
+  
+  *  Explore Azure CloudShell
+  
+  *  Azure Organization Hierarchy: Management Group, Subscription, Resource Group, Resource
+  
+  *  Azure Subscription Governance Strategies
+  
+  *  <b>Hands-on Labs</b>
+    
+</details>
   
 - <b>Module-03: Microsoft Azure Compute Services - Azure Virtual Machines</b>
   - Overview of Azure Virtual Machines
@@ -102,6 +122,13 @@ During the course you will learn a technology stack that helps you build cloud b
   
 - <b>Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts 
 
+<details>
+ <summary> <b> Machine Learning Books :book: </b>  </summary>
+  
+  
+* [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
+  
+</details>
  ---<br><br>
   
 ## Project Ideas
