@@ -54,3 +54,13 @@ During the course you will learn a technology stack that helps you build cloud b
 - <b>Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC
   
 - <b>Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR)
+
+- <b>Module-09: Cloud Infrastructure provisioning Automation - IaC | ARM Templates 
+  
+- <b>Module-10: Microsoft Azure DevOps Services - Azure Repos | Azure Pipelines | Boards | Artifacts
+  
+- <b>Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts 
+
+ ---<br><br>
+- Projects:
+  
