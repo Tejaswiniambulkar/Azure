@@ -210,3 +210,6 @@ During the course you will learn a technology stack that helps you build cloud b
 [Project-05: Create a data pipeline that integrates large amounts of data from multiple sources into a unified analytics platform](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/data-warehouse)
 
 [Project-06: Create a real-time data ingestion/processing pipeline to ingest and process messages from IoT devices into a big data analytic platform](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/data/realtime-analytics-vehicle-iot)
+
+## Contact
+Website: [Novatec IT Services](https://novatec.co.in/)
