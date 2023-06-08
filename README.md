@@ -74,7 +74,7 @@ During the course you will learn a technology stack that helps you build cloud b
 </details> 
 
 <details>
- <summary> <b> Module-04: Microsoft Azure Compute Services - Azure App Services | Azure App Service Plan </b>  </summary>
+ <summary> <b> Module-04: Microsoft Azure Compute Services - Azure App Services | Azure App Service Plan :gem: </b>  </summary>
  
   * Overview of <b>Azure App Service</b> and <b>App Service Plan</b>
   
@@ -89,69 +89,112 @@ During the course you will learn a technology stack that helps you build cloud b
   * Real World Use-cases and Best Practices
  
 </details>
+
+<details>
+ <summary> <b> Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services :gem: </b>  </summary>
  
-- <b>Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services</b>
-  - Networking Primer
-  - Overview of Azure Virtual Network
-  - Azure Virtual Network Endpoints
-  - Azure Network Security services
+  * Networking Primer
+  
+  * Overview of Azure Virtual Network
+  
+  * Azure Virtual Network Endpoints
+  
+  * Azure Network Security services
     - Network Security Group
     - Firewall
-  - IP Address : Public IP, Private IP
-  - Azure Load Balancing services
+  * IP Address : Public IP, Private IP
+  
+  * Azure Load Balancing services
     - Azure Load Balancer (Layer-4)
     - Azure Application Gateway (Layer-7)
     - Azure Traffic Manager (Layer-7)
-  - Azure Virtual Network connectivity use-cases and mechanisms
+  
+  * Azure Virtual Network connectivity use-cases and mechanisms
     - VNet Peering
     - Point-to-Site VPN
     - Site-to-Site VPN 
     - Express Route
-  - Understand NAT mechanism | Explore Azure NAT Gateway service | Use-cases
-  - Understand significance of Bastion resource in a solution | Explore Azure Bastion Service | Use-cases
-  - Explore Azure NetworkWatcher services and its features
-  - Azure Networking Services: Pricing
+  
+  * Understand NAT mechanism | Explore Azure NAT Gateway service | Use-cases
+   
+  * Understand significance of Bastion resource in a solution | Explore Azure Bastion Service | Use-cases
+  
+  *  Explore Azure NetworkWatcher services and its features
+  
+  * Azure Networking Services: Pricing
+ 
+</details>
 
-- <b>Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues</b>
-  - Understanding the need of Storage services in an Application | Use-cases
-  - Overview of Azure Storage Account
-  - Type of Azure Storage Account
+
+<details>
+ <summary> <b> Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues :gem: </b>  </summary>
+ 
+  * Understanding the need of Storage services in an Application | Use-cases
+  
+  * Overview of Azure Storage Account
+  
+  * Type of Azure Storage Account
     - Standard General Purpose v2
     - Premium Page Blobs
     - Premium Block Blobs
     - Premium File Shares
-  - Azure Storage Account: Authorization Techniques
+  
+  * Azure Storage Account: Authorization Techniques
     - Shared Access Token (SAS)
     - Access Keys
     - Azure AD Credentials
-  - Azure Storage Account: Data Redundancy (HA)
+  
+  * Azure Storage Account: Data Redundancy (HA)
     - Locally Redundant Storage (LRS)
     - Zone Redundant Storage (ZRS)
     - Geo Redundant Storage (GRS)
     - Read Access Geo Redundant Storage (RGRS)
     - Geo Zone Redundant Storage (GZRS)
-  - Azure Storage Account and Blob Access Tiers
-  - Azure Storage Account: Lifecycle Policies
-  - Azure Storage Account: Firewall & Network settings
-  - Azure Storage Services: Pricing
+  
+  * Azure Storage Account and Blob Access Tiers
+  
+  * Azure Storage Account: Lifecycle Policies
+  
+  * Azure Storage Account: Firewall & Network settings
+  
+  * Azure Storage Services: Pricing
  
-- <b>Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC
-  
-- <b>Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR)
-
-- <b>Module-09: Cloud Infrastructure provisioning Automation - IaC | ARM Templates 
-  
-- <b>Module-10: Microsoft Azure DevOps Services - Azure Repos | Azure Pipelines | Boards | Artifacts
-  
-- <b>Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts 
+</details>
 
 <details>
- <summary> <b> Machine Learning Books :book: </b>  </summary>
-  
-  
-* [**Applied R for the quantitative social scientist**](http://www.datascienceassn.org/sites/default/files/Applied%20R.pdf) *Rense Nieuwenhuis*
-  
+ <summary> <b> Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC, Key Vault :gem: </b>  </summary>
+ 
+ 
 </details>
+
+
+<details>
+ <summary> <b> Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR) :gem: </b>  </summary>
+ 
+ 
+</details>
+
+
+<details>
+ <summary> <b> Module-09: Cloud Infrastructure provisioning Automation - IaC | ARM Templates :gem: </b>  </summary>
+ 
+ 
+</details>
+
+
+<details>
+ <summary> <b> Module-10: Microsoft Azure DevOps Services - Azure Repos | Azure Pipelines | Boards | Artifacts :gem: </b>  </summary>
+ 
+ 
+</details>
+
+
+<details>
+ <summary> <b> Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts :gem: </b>  </summary>
+ 
+ 
+</details>
+
  ---<br><br>
   
 ## Project Ideas
