@@ -43,29 +43,52 @@ During the course you will learn a technology stack that helps you build cloud b
     
 </details>
   
-- <b>Module-03: Microsoft Azure Compute Services - Azure Virtual Machines</b>
-  - Overview of Azure Virtual Machines
-  - Azure Virtual Machine: Images and Instances
-  - Azure Virtual Machine: Types
-  - Azure Virtual Machine: Types of Provisioning
-  - Azure Virtual Machine Storage: Data Disks (for persistent storage)
-  - Azure VM Management and Automation using Azure VM Extensions
-  - Azure VM: High-availability and Autoscaling services
+<details>
+ <summary> <b> Module-03: Microsoft Azure Compute Services - Azure Virtual Machines :gem: </b>  </summary>
+  
+  * Overview of Azure Virtual Machines
+  
+  * Azure Virtual Machine: Images and Instances
+  
+  * Azure Virtual Machine: Types
+  
+  * Azure Virtual Machine: Types of Provisioning
+  
+  * Azure Virtual Machine Storage: Data Disks (for persistent storage)
+  
+  * Azure VM Management and Automation using Azure VM Extensions
+  
+  * Azure VM: High-availability and Autoscaling services
     1. Zone based redundancy
     2. Availability-sets
     3. Scale-sets
-  - Understand Load Balancing mechanism and explore Azure Load Balancing services
-  - Azure Virtual Machine: Pricing
-  - Real World Use-cases and Best Practices
-  - <b>Hands-on Labs</b>
+  
+  * Understand Load Balancing mechanism and explore Azure Load Balancing services
+   
+  * Azure Virtual Machine: Pricing
+  
+  * Real World Use-cases and Best Practices
+
+  * <b>Hands-on Labs</b>
  
-- <b>Module-04: Microsoft Azure Compute Services - Azure App Services | Azure App Service Plan</b>
-  - Overview of <b>Azure App Service</b> and <b>App Service Plan</b>
-  - Understanding the Azure App service configurations
-  - Azure App Service: Deployment Slots
-  - Azure App Service: Monitoring
-  - Azure App Service: Pricing
-  - Real World Use-cases and Best Practices
+</details> 
+
+<details>
+ <summary> <b> Module-04: Microsoft Azure Compute Services - Azure App Services | Azure App Service Plan </b>  </summary>
+ 
+  * Overview of <b>Azure App Service</b> and <b>App Service Plan</b>
+  
+  * Understanding the Azure App service configurations
+  
+  * Azure App Service: Deployment Slots
+  
+  * Azure App Service: Monitoring
+  
+  * Azure App Service: Pricing
+  
+  * Real World Use-cases and Best Practices
+ 
+</details>
  
 - <b>Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services</b>
   - Networking Primer
