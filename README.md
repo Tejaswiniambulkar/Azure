@@ -69,16 +69,29 @@ During the course you will learn a technology stack that helps you build cloud b
   - Explore Azure NetworkWatcher services and its features
   - Azure Networking Services: Pricing
 
-- <b>Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues 
+- <b>Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues</b>
   - Understanding the need of Storage services in an Application | Use-cases
   - Overview of Azure Storage Account
   - Type of Azure Storage Account
     - Standard General Purpose v2
-    - Premium
-    
-Storage Services Blob, Table, queue, File
-Storage Account Replication Techniques
-Azure Storage - Shared Access Signature (SAS) and Access Token
+    - Premium Page Blobs
+    - Premium Block Blobs
+    - Premium File Shares
+  - Azure Storage Account: Authorization Techniques
+    - Shared Access Token (SAS)
+    - Access Keys
+    - Azure AD Credentials
+  - Azure Storage Account: Data Redundancy (HA)
+    - Locally Redundant Storage (LRS)
+    - Zone Redundant Storage (ZRS)
+    - Geo Redundant Storage (GRS)
+    - Read Access Geo Redundant Storage (RGRS)
+    - Geo Zone Redundant Storage (GZRS)
+  - Azure Storage Account and Blob Access Tiers
+  - Azure Storage Account: Lifecycle Policies
+  - Azure Storage Account: Firewall & Network settings
+  - Azure Storage Services: Pricing
+ 
 - <b>Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC
   
 - <b>Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR)
