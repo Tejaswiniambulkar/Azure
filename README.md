@@ -44,7 +44,7 @@ During the course you will learn a technology stack that helps you build cloud b
 </details>
   
 <details>
- <summary> <b> Module-03: Microsoft Azure Compute Services - Azure Virtual Machines :gem: </b>  </summary>
+ <summary> <b> Module-03: Microsoft Azure Compute Services - Virtual Machines :gem: </b>  </summary>
   
   * Overview of Azure Virtual Machines
   
@@ -74,7 +74,7 @@ During the course you will learn a technology stack that helps you build cloud b
 </details> 
 
 <details>
- <summary> <b> Module-04: Microsoft Azure Compute Services - Azure App Services | Azure App Service Plan :gem: </b>  </summary>
+ <summary> <b> Module-04: Microsoft Azure Compute Services - App Services, App Service Plan :gem: </b>  </summary>
  
   * Overview of <b>Azure App Service</b> and <b>App Service Plan</b>
   
@@ -91,7 +91,7 @@ During the course you will learn a technology stack that helps you build cloud b
 </details>
 
 <details>
- <summary> <b> Module-05: Microsoft Azure Networking Services - Virtual Networks | Load Balancers | NSG | Connectivity Services :gem: </b>  </summary>
+ <summary> <b> Module-05: Microsoft Azure Networking Services - Virtual Networks, Load Balancers, NSG, Connectivity Services :gem: </b>  </summary>
  
   * Networking Primer
   
@@ -127,7 +127,7 @@ During the course you will learn a technology stack that helps you build cloud b
 
 
 <details>
- <summary> <b> Module-06: Microsoft Azure Storage Services - Storage Account | Azure Blob | Azure Files | Tables | Queues :gem: </b>  </summary>
+ <summary> <b> Module-06: Microsoft Azure Storage Services - Storage Account, Azure Blob, Azure Files, Tables, Queues :gem: </b>  </summary>
  
   * Understanding the need of Storage services in an Application | Use-cases
   
@@ -162,33 +162,29 @@ During the course you will learn a technology stack that helps you build cloud b
 </details>
 
 <details>
- <summary> <b> Module-07: Microsoft Azure Identity and Access Management Services - Azure Active Directory, RBAC, Key Vault :gem: </b>  </summary>
+ <summary> <b> Module-07: Microsoft Azure Identity and Access Management Services - Azure AD, RBAC, Key Vault :gem: </b>  </summary>
  
  
 </details>
 
 
 <details>
- <summary> <b> Module-08: Microsoft Azure Backup & Recovery Services - Azure Recovery Service Vault | Site Recovery (ASR) :gem: </b>  </summary>
+ <summary> <b> Module-08: Microsoft Azure Backup & Recovery Services - Recovery Service Vault, Site Recovery (ASR) :gem: </b>  </summary>
  
  
 </details>
 
 
 <details>
- <summary> <b> Module-09: Cloud Infrastructure provisioning Automation - IaC | ARM Templates :gem: </b>  </summary>
+ <summary> <b> Module-09: Cloud Infrastructure provisioning Automation - IaC, ARM Templates :gem: </b>  </summary>
  
  
 </details>
-
-
 <details>
- <summary> <b> Module-10: Microsoft Azure DevOps Services - Azure Repos | Azure Pipelines | Boards | Artifacts :gem: </b>  </summary>
+ <summary> <b> Module-10: Microsoft Azure DevOps Services - Azure Repos, Azure Pipelines, Boards, Artifacts :gem: </b>  </summary>
  
  
 </details>
-
-
 <details>
  <summary> <b> Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts :gem: </b>  </summary>
  
