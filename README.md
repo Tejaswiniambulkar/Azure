@@ -25,7 +25,7 @@ During the course you will learn a technology stack that helps you build cloud b
   
   *  Introduction to Microsoft Azure
   
-  *  Auzre Global Infrastructure
+  *  Azure Global Infrastructure
   
   *  Setting up Azure Environment
   
@@ -186,7 +186,7 @@ During the course you will learn a technology stack that helps you build cloud b
  
 </details>
 <details>
- <summary> <b> Module-11: Mocrosoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts :gem: </b>  </summary>
+ <summary> <b> Module-11: Microsoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts :gem: </b>  </summary>
  
  
 </details>
