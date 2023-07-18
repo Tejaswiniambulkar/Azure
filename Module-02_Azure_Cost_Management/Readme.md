@@ -29,6 +29,7 @@ The service cost depends on the following factors:
    - Use *Azure Advisor* to monitor your usage. Azure Advisor identifies unused or underutilized resources and recommends unused resources that you can remove.
 
 ## Azure Service LifeCycle
+
 The service lifecycle defines how every Azure service is released for public use.
    1) *Development phase*
       - Every Azure service starts in the Development phase.
@@ -37,3 +38,4 @@ The service lifecycle defines how every Azure service is released for public use
       - During this phase, the public can access and experiment with it so that it can provide feedback.
    3) *General Availability (GA) phase*
       - After a new Azure service is validated and tested, it’s released to all customers as a production-ready service.
+
