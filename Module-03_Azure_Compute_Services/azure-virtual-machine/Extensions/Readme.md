@@ -27,4 +27,4 @@ Azure virtual machine (VM) extensions are small applications that provide post-d
    [a relative link](other_file.md)
 
    - <b>*Linux Extensions*</b>
-     
+     1. [Custom script extension to configure VM as a Web server by installing Apache Web Server on it](install-httpd-linux.sh)
