@@ -188,9 +188,11 @@ During the course you will learn a technology stack that helps you build cloud b
 <details>
  <summary> <b> Module-11: Microsoft Azure Operations Services - Azure Monitor, Log Analytics, App Insights, Alerts :gem: </b>  </summary>
  
+</details>
+<details>
+ <summary> <b> Module-12: Microsoft Azure Container Services - Docker, Container Instance, ACR, AKS :gem: </b>  </summary>
  
 </details>
-
  ---<br><br>
   
 ## Project Ideas
