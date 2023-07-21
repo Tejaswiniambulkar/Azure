@@ -22,7 +22,9 @@ Azure virtual machine (VM) extensions are small applications that provide post-d
 ## Azure VM Extensions
    - <b>*Windows Extensions*</b>
      1. [Custom Script Extension to download a script from a GitHub repository onto the target virtual machine and then run the script.](download-script-and-run.ps1)
-     2. This sample the VMAccess extension to reset the administrative password of a Windows VM to a temporary password. After you run this code, you should reset the password at first sign-in.
+     2. [VMAccess extension to reset the administrative password of a Windows VM to a temporary password. After you run this code, you should reset the password at first sign-in.](reset-vm-admin-pwd.ps1)
+     3. [Custom script Extension to configure VM as a Web Server by install IIS Role on it](install-iis-role.ps1)
    [a relative link](other_file.md)
+
    - <b>*Linux Extensions*</b>
      
