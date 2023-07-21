@@ -32,6 +32,11 @@
      1) Username and Password
      2) SSH Key Pair
 
+## Azure VM Sizes Naming conventions
+   - <p>[Family] + [Sub-family]* + [# of vCPUs] + [Constrained vCPUs]* + [Additive Features] + [Accelerator Type]* + [Version]</p>
+   - Example: Standard_B2s
+
+
 ## Provisioning Azure Virtual Machine (Windows and Linux)
 
    - Windows VM</br>
@@ -44,5 +49,10 @@
    👉 Lab: Provision Linux Azure Virtual Machine using Azure PowerShell and connect to it using SSH client</br></br>
    👉 Lab: Provision Linux Azure Virtual Machine using Azure CLI and connect to it using SSH client</br></br>
 
+
+## What are Azure VM Extensions?
+   - *Azure VM Extensions* are small applications that provide post-deployment configuration and automation tasks on Azure VMs.
+   - <b>Example</b>: if a virtual machine requires software installation, antivirus protection, or the ability to run a script inside it, you can use a VM extension.
+   - For a sample Azure VM extensions, [click here >> ]
 
 
