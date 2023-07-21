@@ -50,9 +50,32 @@
    👉 Lab: Provision Linux Azure Virtual Machine using Azure CLI and connect to it using SSH client</br></br>
 
 
-## What are Azure VM Extensions?
+## [What are *Azure VM Extensions*?](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/overview)
    - *Azure VM Extensions* are small applications that provide post-deployment configuration and automation tasks on Azure VMs.
    - <b>Example</b>: if a virtual machine requires software installation, antivirus protection, or the ability to run a script inside it, you can use a VM extension.
    - For a sample Azure VM extensions, [click here >> ]
 
+## [*Azure Managed Disks* service for Azure VM Storage](https://docs.microsoft.com/en-us/azure/virtual-machines/disks-types)
+   - Azure managed disks are block-level storage volumes that are managed by Azure and used with Azure Virtual Machines.
+   - Managed disks are like a physical disk in an on-premises server but, virtualized.
+   - With managed disks, all you have to do is specify the disk size, the disk type, and provision the disk.
+   - Azure Disks Roles
+     1. Operating System Disks
+     2. Data Disk (Persistent storage)
+     3. Temporary Disk
+   - Azure Disks Types
+     - Ultra disk
+     - Premium SSD v2
+     - Premium SSD
+     - Standard SSD
+     - Standard HDD
+   - Azure Disk Encryption
+     - Azure Disk Encryption (ADE)
+     - Server-Side Encryption (SSE)
+     - Encryption at host
 
+👉 Lab: Extending Windows Azure VM storage by adding Disk to it</br></br>
+👉 Lab: Extending Linux Azure VM storage by adding Disk to it
+
+## []
+   
