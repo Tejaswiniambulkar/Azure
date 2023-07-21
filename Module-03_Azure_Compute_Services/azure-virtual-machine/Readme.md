@@ -73,9 +73,24 @@
      - Azure Disk Encryption (ADE)
      - Server-Side Encryption (SSE)
      - Encryption at host
-
+   - Disk Performance Indicators
+     - IOPS
+     - Throughput
+     - Latency 
+   
 👉 Lab: Extending Windows Azure VM storage by adding Disk to it</br></br>
 👉 Lab: Extending Linux Azure VM storage by adding Disk to it
 
-## []
-   
+## [Azure VM *Boot Diagnostics*](https://docs.microsoft.com/en-us/azure/virtual-machines/boot-diagnostics)
+   - Boot diagnostics is a debugging feature for Azure virtual machines (VM) that allows diagnosis of VM boot failures.
+   - Boot diagnostics enables a user to observe the state of their VM as it is booting up by collecting serial log information and screenshots.
+
+## What is High Availability (HA)?
+
+## How would you achieve high-availability with Azure VM?
+
+## What is Scaling?
+
+## What is auto-scaling?
+
+## How would you configure Azure VM for Auto-scaling?
