@@ -86,11 +86,35 @@
    - Boot diagnostics enables a user to observe the state of their VM as it is booting up by collecting serial log information and screenshots.
 
 ## What is High Availability (HA)?
+   - <b>*High Availability*</b> refers to the ability of a system or application to remain operational and accessible even in the face of disruptions or failures.
+   - This is important for mission-critical systems that cannot tolerate interruption in service, and any outage can cause damage or result in business losses.
+   - This is achieved through a combination of redundancy, failover mechanisms, and automatic recovery processes.
+   - The basic elements of high availability
+   - The following three elements are essential to a highly available system:
+     1) <b>*Redundancy*</b> - Ensuring that any elements critical to system operations have an additional, redundant component that can take over in case of failure.
 
-## How would you achieve high-availability with Azure VM?
+     2) <b>*Monitoring*</b> - Collecting data from a running system and detecting when a component fails or stops responding.
+     3) <b>*Failover*</b> - a mechanism that can switch automatically from the currently active component to a redundant component, if monitoring shows a failure of the active component.
+   - Here is a standard High Availability Checklist
+     1) Define Availability Requirements - Percentage of Uptime | Mean Time to Recovery (MTTR) | Mean Time between Failures (MTBR) | Recovery Time Objective (RTO) | Recovery Point Objective (RPO)
+     2) Plan your High Availability Architecture
+        - Start with a Failure Mode Analysis (FMA)
+        - Consider costs
+        - Consider resiliency
+        - Replicate data
+        - Document every use-case
+     3) Perform End-to-End Testing
+     4) Deploy Applications Consistently
+     5) Monitor Application Health
+  
+## How to achieve high-availability for your application hosted on Azure VM?
+There are multiple services and mechanisms available with Azure in order to make you Azure VM hosted application highly available:
+  1) By deploying VM across <b>*Azure Availablity Zones*</b>
+  2) By deploying VM in <b>*Availabity-sets*</b>
+  3) By deploying VM in <b>*Azure Virtual Machine Scale-sets*</b>
 
 ## What is Scaling?
-
+   
 ## What is auto-scaling?
 
-## How would you configure Azure VM for Auto-scaling?
+## How to configure Azure VM with Auto-scaling?
