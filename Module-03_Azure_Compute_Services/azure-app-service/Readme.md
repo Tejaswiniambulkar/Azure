@@ -1,4 +1,4 @@
-![image](https://github.com/novatecstack/ms-azure-admin-masterclass/assets/121426292/48a742ee-feeb-4e13-88db-6c2b7f059115)# Azure App Services
+# Azure App Services
 
 ## Azure App Services Overview
    - Azure App Service is an HTTP-based PaaS service for hosting web applications, REST APIs, and mobile back ends
