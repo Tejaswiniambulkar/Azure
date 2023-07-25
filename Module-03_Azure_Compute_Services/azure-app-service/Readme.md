@@ -34,8 +34,8 @@
      4) Pricing tier (Free, Shared, Basic, Standard, Premium, PremiumV2, PremiumV3, Isolated)
 
 ## Practice Labs
-👉 Hands-on Lab-01: Create an ASP.NET web app using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
-👉 Hands-on Lab-02: Publish the ASP.NET app using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
-👉 Hands-on Lab-03: Update the ASP.NET app and redeploy using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
-👉 Hands-on Lab-03: Manage the published Azure app</br></br>
+👉 Lab-01: Create an ASP.NET web app using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
+👉 Lab-02: Publish the ASP.NET app using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
+👉 Lab-03: Update the ASP.NET app and redeploy using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br></br>
+👉 Lab-03: Manage the published Azure app</br></br>
 
