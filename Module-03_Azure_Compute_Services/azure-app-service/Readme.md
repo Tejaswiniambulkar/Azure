@@ -1,4 +1,4 @@
-# Azure App Services
+# [Azure App Services](https://learn.microsoft.com/en-us/azure/app-service/)
 
 ## Azure App Services Overview
    - Azure App Service is an HTTP-based PaaS service for hosting web applications, REST APIs, and mobile back ends
@@ -41,3 +41,28 @@
 3) Update the ASP.NET app and redeploy using Visual Studio/Visual Studio Code/PowerShell/Azure CLI</br>
 4) Manage the published Azure app</br>
 
+## [Set up staging environments in Azure App Service using *Deployment Slots*?](https://learn.microsoft.com/en-us/azure/app-service/deploy-staging-slots?tabs=portal)
+
+## How to choose the right Azure compute service for your application?
+
+## How would you achieve auto-scaling with Azure Web App?
+
+## Azure Web App: *Custom Domains*
+
+## [How to take *backup* of Azure Web Apps?](https://learn.microsoft.com/en-us/azure/app-service/manage-backup?tabs=portal)
+
+## Azure App Services: *Best Practices*
+   - Configure alerts for Azure Web Apps and ASP based on different metrics
+   - Configure Scale Out in App Service plan for achieving Auto-scaling
+   - Enforce HTTPS
+   - Configure IP restrictions
+   - Configure SSL Certificates
+   - You must consider configuring a continuous deployment workflow for your Azure Web Apps
+   - Cross-Origin Resource Sharing (CORS)
+
+## [Azure App Services: *Pricing*](https://azure.microsoft.com/en-in/pricing/details/app-service/windows/)
+
+## Azure App Services: *FAQs*
+   - [Creating or Deleting resources in Azure App Service](https://learn.microsoft.com/en-us/troubleshoot/azure/app-service/create-delete-resources-faq)
+   - [Application performance FAQs for Web Apps in Azure](https://learn.microsoft.com/en-us/troubleshoot/azure/app-service/web-apps-performance-faqs)
+   - [Backing up, restoring, and cloning Microsoft Azure App Service](https://learn.microsoft.com/en-us/troubleshoot/azure/app-service/backing-up-restoring-and-cloning-microsoft-azure-app-services)
