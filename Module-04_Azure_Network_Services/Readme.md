@@ -92,7 +92,7 @@
    - Scenarios
    - Components
 
-## 4.5 What is Network Address Translation (NAT? | Azure NAT Gateway Overview
+## 4.5 What is Network Address Translation (NAT)? | Azure NAT Gateway Overview
    - Allows your virtual network resources to have an outbound-only connection.
    - A NAT gateway resource can use up to 16 static IP addresses.
    - 
