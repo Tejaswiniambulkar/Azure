@@ -41,16 +41,40 @@
 ## How can Azure help with load balancing?
    - Azure Load Balancing service is a fully managed load balancing service that automatically distributes incoming application traffic to multiple targets and virtual appliances across AWS and on-premises resources.
    - You can use it to scale modern applications without complex configurations or API gateways.
-   - You can use Azure to set up three different types of software load balancers:
-     1) <b>*Load Balancer*</b>
-     2) <b>*Application Gateway*</b>
-     3) <b>*Taffic Manager*</b>
    - Azure Load Balancer SKUs:
      - Standard
      - Basic     
-   - Microsoft recommends Standard load balancer.
    - Standalone VMs, availability sets, and virtual machine scale sets can be connected to only one Load Balancer SKU, never both.
    - Load balancer and the public IP address SKU must match when you use them with public IP addresses Load balancer and public IP SKUs aren't mutable.
+   - Types of Load Balancers based on its scope
+     1) Internal Load Balancer
+     2) External Load Balancer (Public)
+   - You can use Azure to set up three different types of software load balancers:
+     1) <b>*Load Balancer*</b> (layer-4)
+     2) <b>*Application Gateway*</b> (layer-7)
+     3) <b>*Taffic Manager*</b> (layer-7) 
+
+### 1. *Azure Load Balancer* Overview
+   - Application Servers
+   - Backend-pool
+   - Listeners
+   - Health probe
+   - Load Balancing Rules
+   - Public IP | Load Balancer Endpoint
+
+### 2. *Auzre Application Gateway* Overview
+   - Azure Application Gateway is a web traffic load balancer that is distribute traffic to web-applications.
+   - The applications can reside inside Virtual Machines, VM Scale-sets or On-premise servers.
+   - The Application Gateway is an OSI Layer-7 load balancing service.
+   - Supports Secure Socket Layer (SSL/TLS) termination
+   - Components of Application Gateway:
+     - Front-end IP Address
+     - Listeners
+     - Routing rules
+     - Backend Pool
+     - Health Probe
+
+### 3. *Azure Traffic Manager* Overview
 
 ## Azure Virtual Network *FAQs*
    - [Azure Virtual Networks FAQs](https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq)
