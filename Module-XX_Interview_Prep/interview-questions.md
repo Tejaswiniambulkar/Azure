@@ -157,35 +157,35 @@ Azure Site Recovery, Azure Backup
 73. What is a Soft-Delete feature with respect to Azure Recovery Service Vault?
 74. What are the different types of Azure Disks? Explain each of them with use-case it is recommended for.
 75. What are Dynamic User Groups and Dynamic Device Groups in Azure AD? 
-76. How would you achieve HA within to protect your application running on Azure Virtual Machine from rack level failures. Explain Fault domain and Update domain concepts with use-cases?
+76. How would you make your application highly available within and AZ in order to protect your application running on Azure Virtual Machine from rack level failures. Explain Fault domain and Update domain concepts with use-cases?
 
 
 ## Reference Links
    - <b>*Azure Compute services*</b>
-     1. Azure Virtual Machines
-     2. Azure App Services
-     3. Azure Container Instances
-     4. Azure Kubernetes Service (AKS)
-     5. Azure Container App
-     6. Azure Functions
+     1. [Azure Virtual Machines](https://learn.microsoft.com/en-us/azure/virtual-machines/overview)
+     2. [Azure App Services](https://learn.microsoft.com/en-us/azure/app-service/overview)
+     3. [Azure Container Instances](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-overview)
+     4. [Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/intro-kubernetes)
+     5. [Azure Container App](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+     6. [Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview)
    - <b>*Azure Storage Services*</b>
-     1. Blob Containers
-     2. File shares
-     3. Tables
-     4. Queues
+     1. [Blob Containers]()
+     2. [File shares]()
+     3. [Tables]()
+     4. [Queues]()
    - <b>*Azure Networking Services*</b>
-     - Virtual Network
-     - Network Security Group
-     - Azure Bastion
-     - Load Balancer | Application Gateway | Traffic Manager
-     - Azure NAT Gateway
-     - Virtual Network Gateway
-     - Transit Gateway
-     - Virtual Network Peering
-     - Point-to-Site VPN
-     - Site-to-Site VPN
-     - ExpressRoute
-     - Network Watcher
+     - [Virtual Network]()
+     - [Network Security Group]()
+     - [Azure Bastion]()
+     - [Load] Balancer | Application Gateway | Traffic Manager]()
+     - [Azure NAT Gateway]()
+     - [Virtual Network Gateway]()
+     - [Transit Gateway]()
+     - [Virtual Network Peering]()
+     - [Point-to-Site VPN]()
+     - [Site]-to-Site VPN]()
+     - [ExpressRoute]()
+     - [Network Watcher]()
    - <b>*Azure Container Services*</b>
    - <b>*Azure DevOps Services*</b>
    - <b>*Azure ARM Templates*</b>

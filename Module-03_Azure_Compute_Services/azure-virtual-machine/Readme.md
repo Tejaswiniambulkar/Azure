@@ -117,4 +117,4 @@ There are multiple services and mechanisms available with Azure in order to make
    
 ## What is auto-scaling?
 
-## How to configure Azure VM with Auto-scaling?
+## How to auto-scale your application running on Azure VM?
